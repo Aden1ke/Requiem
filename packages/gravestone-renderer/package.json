@@ -1,0 +1,11 @@
+{
+  "name": "@requiem/gravestone-renderer",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "dependencies": {
+    "three": "^0.165.0",
+    "@types/three": "^0.165.0",
+    "@requiem/shared-types": "*"
+  }
+}
